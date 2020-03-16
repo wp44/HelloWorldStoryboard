@@ -1,0 +1,137 @@
+2020-03-13 14:04:03 +0000  Initial pipeline context: <IDEDistributionProcessingPipelineContext: 0x7fc3ee567140; archive(resolved)='<IDEArchive: 0x7fc3ee7808c0>', distributionTask(resolved)='2', distributionDestination(resolved)='1', distributionMethod(resolved)='<IDEDistributionMethodiOSAppStoreDistribution: 0x7fc3ee257080>', team(resolved)='<IDEProvisioningDisambiguatableBasicTeam: 0x7fc3ec3f3410; teamID='TCKV8EY4B5', teamName='CGI Deutschland Ltd. & Co. KG', teamType='Company', username='piotr.wszolek@cgi.com', isFreeProvisioningTeam='0'>'>
+	Chain (12, self inclusive):
+	<IDEDistributionProcessingPipelineContext: 0x7fc3ee567140; archive = '<IDEArchive: 0x7fc3ee7808c0>', distributionMethod='<IDEDistributionMethodiOSAppStoreDistribution: 0x7fc3ee257080>', team='<IDEProvisioningDisambiguatableBasicTeam: 0x7fc3ec3f3410; teamID='TCKV8EY4B5', teamName='CGI Deutschland Ltd. & Co. KG', teamType='Company', username='piotr.wszolek@cgi.com', isFreeProvisioningTeam='0'>'>
+	<IDEDistributionProcessingPipelineContext: 0x7fc3ee5e0430; archive = '<IDEArchive: 0x7fc3ee7808c0>', distributionMethod='<IDEDistributionMethodiOSAppStoreDistribution: 0x7fc3ee257080>', team='<IDEProvisioningDisambiguatableBasicTeam: 0x7fc3ec3f3410; teamID='TCKV8EY4B5', teamName='CGI Deutschland Ltd. & Co. KG', teamType='Company', username='piotr.wszolek@cgi.com', isFreeProvisioningTeam='0'>'>
+	<IDEDistributionContext: 0x7fc3ec3df120; archive = '<IDEArchive: 0x7fc3ee7808c0>', distributionMethod='<IDEDistributionMethodiOSAppStoreDistribution: 0x7fc3ee257080>', team='<IDEProvisioningDisambiguatableBasicTeam: 0x7fc3ec3f3410; teamID='TCKV8EY4B5', teamName='CGI Deutschland Ltd. & Co. KG', teamType='Company', username='piotr.wszolek@cgi.com', isFreeProvisioningTeam='0'>'>
+	<IDEDistributionContext: 0x7fc3ee917080; archive = '<IDEArchive: 0x7fc3ee7808c0>', distributionMethod='<IDEDistributionMethodiOSAppStoreDistribution: 0x7fc3ee257080>', team='<IDEProvisioningDisambiguatableBasicTeam: 0x7fc3ec3f3410; teamID='TCKV8EY4B5', teamName='CGI Deutschland Ltd. & Co. KG', teamType='Company', username='piotr.wszolek@cgi.com', isFreeProvisioningTeam='0'>'>
+	<IDEDistributionContext: 0x7fc3ee756250; archive = '<IDEArchive: 0x7fc3ee7808c0>', distributionMethod='<IDEDistributionMethodiOSAppStoreDistribution: 0x7fc3ee257080>', team='<IDEProvisioningDisambiguatableBasicTeam: 0x7fc3ec3f3410; teamID='TCKV8EY4B5', teamName='CGI Deutschland Ltd. & Co. KG', teamType='Company', username='piotr.wszolek@cgi.com', isFreeProvisioningTeam='0'>'>
+	<IDEDistributionContext: 0x7fc3ee5abe90; archive = '<IDEArchive: 0x7fc3ee7808c0>', distributionMethod='<IDEDistributionMethodiOSAppStoreDistribution: 0x7fc3ee257080>', team='<IDEProvisioningDisambiguatableBasicTeam: 0x7fc3ec3f3410; teamID='TCKV8EY4B5', teamName='CGI Deutschland Ltd. & Co. KG', teamType='Company', username='piotr.wszolek@cgi.com', isFreeProvisioningTeam='0'>'>
+	<IDEDistributionContext: 0x7fc3ee58f0c0; archive = '<IDEArchive: 0x7fc3ee7808c0>', distributionMethod='<IDEDistributionMethodiOSAppStoreDistribution: 0x7fc3ee257080>', team='<IDEProvisioningDisambiguatableBasicTeam: 0x7fc3ec3f3410; teamID='TCKV8EY4B5', teamName='CGI Deutschland Ltd. & Co. KG', teamType='Company', username='piotr.wszolek@cgi.com', isFreeProvisioningTeam='0'>'>
+	<IDEDistributionContext: 0x7fc3ee763db0; archive = '<IDEArchive: 0x7fc3ee7808c0>', distributionMethod='<IDEDistributionMethodiOSAppStoreDistribution: 0x7fc3ee257080>', team='<IDEProvisioningDisambiguatableBasicTeam: 0x7fc3ec3f3410; teamID='TCKV8EY4B5', teamName='CGI Deutschland Ltd. & Co. KG', teamType='Company', username='piotr.wszolek@cgi.com', isFreeProvisioningTeam='0'>'>
+	<IDEDistributionContext: 0x7fc3ed4bdcd0; archive = '<IDEArchive: 0x7fc3ee7808c0>', distributionMethod='<IDEDistributionMethodiOSAppStoreDistribution: 0x7fc3ee257080>', team='<IDEProvisioningDisambiguatableBasicTeam: 0x7fc3ec3f3410; teamID='TCKV8EY4B5', teamName='CGI Deutschland Ltd. & Co. KG', teamType='Company', username='piotr.wszolek@cgi.com', isFreeProvisioningTeam='0'>'>
+	<IDEDistributionContext: 0x7fc3eebc4e40; archive = '<IDEArchive: 0x7fc3ee7808c0>', distributionMethod='<IDEDistributionMethodiOSAppStoreDistribution: 0x7fc3ee257080>', team='(null)'>
+	<IDEDistributionContext: 0x7fc3ed4e3590; archive = '<IDEArchive: 0x7fc3ee7808c0>', distributionMethod='<IDEDistributionMethodiOSAppStoreDistribution: 0x7fc3ee257080>', team='(null)'>
+	<IDEDistributionContext: 0x7fc3eed57480; archive = '<IDEArchive: 0x7fc3ee7808c0>', distributionMethod='(null)', team='(null)'>
+</IDEDistributionProcessingPipelineContext: 0x7fc3ee567140>
+2020-03-13 14:04:03 +0000  Processing step: IDEDistributionCreateDestRootStep
+2020-03-13 14:04:03 +0000  Processing step: IDEDistributionCopyItemStep
+2020-03-13 14:04:03 +0000  Running /usr/bin/ditto '-V' '/Users/piotr/Library/Developer/Xcode/Archives/2020-03-13/HelloWorldStoryboard 13.03.20, 15.02.xcarchive/Products/Applications/HelloWorldStoryboard.app' '/var/folders/zp/kmrp56253wg68hmkzvz8y2c00000gn/T/XcodeDistPipeline.~~~qu9zKQ/Root/Payload/HelloWorldStoryboard.app'
+2020-03-13 14:04:03 +0000  >>> Copying /Users/piotr/Library/Developer/Xcode/Archives/2020-03-13/HelloWorldStoryboard 13.03.20, 15.02.xcarchive/Products/Applications/HelloWorldStoryboard.app 
+2020-03-13 14:04:03 +0000  copying file ./_CodeSignature/CodeResources ... 
+2020-03-13 14:04:03 +0000  3895 bytes for ./_CodeSignature/CodeResources
+2020-03-13 14:04:03 +0000  copying file ./Base.lproj/Main.storyboardc/UIViewController-BYZ-38-t0r.nib ... 
+2020-03-13 14:04:03 +0000  944 bytes for ./Base.lproj/Main.storyboardc/UIViewController-BYZ-38-t0r.nib
+copying file ./Base.lproj/Main.storyboardc/BYZ-38-t0r-view-8bC-Xf-vdC.nib ... 
+2020-03-13 14:04:03 +0000  3336 bytes for ./Base.lproj/Main.storyboardc/BYZ-38-t0r-view-8bC-Xf-vdC.nib
+2020-03-13 14:04:03 +0000  copying file ./Base.lproj/Main.storyboardc/Info.plist ... 
+2020-03-13 14:04:03 +0000  258 bytes for ./Base.lproj/Main.storyboardc/Info.plist
+2020-03-13 14:04:03 +0000  copying file ./Base.lproj/LaunchScreen.storyboardc/01J-lp-oVM-view-Ze5-6b-2t3.nib ... 
+2020-03-13 14:04:03 +0000  1197 bytes for ./Base.lproj/LaunchScreen.storyboardc/01J-lp-oVM-view-Ze5-6b-2t3.nib
+2020-03-13 14:04:03 +0000  copying file ./Base.lproj/LaunchScreen.storyboardc/UIViewController-01J-lp-oVM.nib ... 
+2020-03-13 14:04:03 +0000  896 bytes for ./Base.lproj/LaunchScreen.storyboardc/UIViewController-01J-lp-oVM.nib
+2020-03-13 14:04:03 +0000  copying file ./Base.lproj/LaunchScreen.storyboardc/Info.plist ... 
+2020-03-13 14:04:03 +0000  258 bytes for ./Base.lproj/LaunchScreen.storyboardc/Info.plist
+2020-03-13 14:04:03 +0000  copying file ./HelloWorldStoryboard ... 
+2020-03-13 14:04:03 +0000  170416 bytes for ./HelloWorldStoryboard
+2020-03-13 14:04:03 +0000  copying file ./embedded.mobileprovision ... 
+2020-03-13 14:04:03 +0000  13288 bytes for ./embedded.mobileprovision
+2020-03-13 14:04:03 +0000  copying file ./Info.plist ... 
+2020-03-13 14:04:03 +0000  1463 bytes for ./Info.plist
+2020-03-13 14:04:03 +0000  copying file ./PkgInfo ... 
+2020-03-13 14:04:03 +0000  8 bytes for ./PkgInfo
+2020-03-13 14:04:03 +0000  /usr/bin/ditto exited with 0
+2020-03-13 14:04:03 +0000  Processing step: IDEDistributionEmbedProfileStep
+2020-03-13 14:04:03 +0000  Processing step: IDEDistributionItemRemovalStep
+2020-03-13 14:04:03 +0000  Processing step: IDEDistributionAppThinningPlistStep
+2020-03-13 14:04:03 +0000  Skipping step: IDEDistributionAppThinningPlistStep because it said so
+2020-03-13 14:04:03 +0000  Processing step: IDEDistributionCompileBitcodeStep
+2020-03-13 14:04:03 +0000  Skipping step: IDEDistributionCompileBitcodeStep because it said so
+2020-03-13 14:04:03 +0000  Processing step: IDEDistributionCodeSlimmingStep
+2020-03-13 14:04:03 +0000  Processing step: IDEDistributionCopyBCSymbolMapsStep
+2020-03-13 14:04:03 +0000  Running /usr/bin/ditto '-V' '/Users/piotr/Library/Developer/Xcode/Archives/2020-03-13/HelloWorldStoryboard 13.03.20, 15.02.xcarchive/BCSymbolMaps/F9223A01-6B5B-3A0F-AD24-AFC85F612F82.bcsymbolmap' '/var/folders/zp/kmrp56253wg68hmkzvz8y2c00000gn/T/XcodeDistPipeline.~~~qu9zKQ/Root/BCSymbolMaps/F9223A01-6B5B-3A0F-AD24-AFC85F612F82.bcsymbolmap'
+2020-03-13 14:04:03 +0000  >>> Copying /Users/piotr/Library/Developer/Xcode/Archives/2020-03-13/HelloWorldStoryboard 13.03.20, 15.02.xcarchive/BCSymbolMaps/F9223A01-6B5B-3A0F-AD24-AFC85F612F82.bcsymbolmap 
+2020-03-13 14:04:03 +0000  copying file ./F9223A01-6B5B-3A0F-AD24-AFC85F612F82.bcsymbolmap ... 
+2020-03-13 14:04:03 +0000  5623 bytes for ./F9223A01-6B5B-3A0F-AD24-AFC85F612F82.bcsymbolmap
+2020-03-13 14:04:03 +0000  /usr/bin/ditto exited with 0
+2020-03-13 14:04:03 +0000  Processing step: IDEDistributionSymbolsStep
+2020-03-13 14:04:03 +0000  Excluding symbols for HelloWorldStoryboard.app
+2020-03-13 14:04:03 +0000  Processing step: IDEDistributionCopyAppleProvidedContentStep
+2020-03-13 14:04:03 +0000  Processing step: IDEDistributionAppThinningStep
+2020-03-13 14:04:03 +0000  Skipping step: IDEDistributionAppThinningStep because it said so
+2020-03-13 14:04:03 +0000  Processing step: IDEDistributionArchThinningStep
+2020-03-13 14:04:03 +0000  Running /Users/piotr/Downloads/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo '/var/folders/zp/kmrp56253wg68hmkzvz8y2c00000gn/T/XcodeDistPipeline.~~~qu9zKQ/Root/Payload/HelloWorldStoryboard.app/HelloWorldStoryboard' '-verify_arch' 'arm64e'
+2020-03-13 14:04:03 +0000  /Users/piotr/Downloads/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 1
+2020-03-13 14:04:03 +0000  Skipping architecture thinning for item "HelloWorldStoryboard" because arch "arm64e" wasn't found
+2020-03-13 14:04:03 +0000  Processing step: IDEDistributionODRStep
+2020-03-13 14:04:03 +0000  Processing step: IDEDistributionStripXattrsStep
+2020-03-13 14:04:03 +0000  Running /usr/bin/xattr '-crs' '/var/folders/zp/kmrp56253wg68hmkzvz8y2c00000gn/T/XcodeDistPipeline.~~~qu9zKQ/Root/Payload/HelloWorldStoryboard.app'
+2020-03-13 14:04:03 +0000  /usr/bin/xattr exited with 0
+2020-03-13 14:04:03 +0000  Processing step: IDEDistributionCodesignStep
+2020-03-13 14:04:03 +0000  Entitlements for <IDEDistributionItem: 0x7fc3ee34bfc0; bundleID='com.helloworldstoryboard.HelloWorldStoryboard2', path='<DVTFilePath:0x7fc3ee3cc190:'/Users/piotr/Library/Developer/Xcode/Archives/2020-03-13/HelloWorldStoryboard 13.03.20, 15.02.xcarchive/Products/Applications/HelloWorldStoryboard.app'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fc3ee9245e0; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fc3ee2285f0; name='Apple Development: Piotr Wszolek (W68863W636)', hash='76E2D6DE31396EC77905ED285462C5CB9414AAE0', serialNumber='3D6950B2F1E23562', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2020-03-13 13:36:59 +0000''>', entitlements='{
+    "application-identifier" = "TCKV8EY4B5.com.helloworldstoryboard.HelloWorldStoryboard2";
+    "com.apple.developer.team-identifier" = TCKV8EY4B5;
+    "get-task-allow" = 1;
+    "keychain-access-groups" =     (
+        "TCKV8EY4B5.com.helloworldstoryboard.HelloWorldStoryboard2"
+    );
+}', teamID='TCKV8EY4B5', identifier='com.helloworldstoryboard.HelloWorldStoryboard2', executablePath='<DVTFilePath:0x7fc3ee81f460:'/Users/piotr/Library/Developer/Xcode/Archives/2020-03-13/HelloWorldStoryboard 13.03.20, 15.02.xcarchive/Products/Applications/HelloWorldStoryboard.app/HelloWorldStoryboard'>', hardenedRuntime='0'>'>: {
+    "application-identifier" = "TCKV8EY4B5.com.helloworldstoryboard.HelloWorldStoryboard2";
+    "beta-reports-active" = 1;
+    "com.apple.developer.team-identifier" = TCKV8EY4B5;
+    "get-task-allow" = 0;
+    "keychain-access-groups" =     (
+        "TCKV8EY4B5.com.helloworldstoryboard.HelloWorldStoryboard2"
+    );
+}
+2020-03-13 14:04:03 +0000  Writing entitlements for <IDEDistributionItem: 0x7fc3ee34bfc0; bundleID='com.helloworldstoryboard.HelloWorldStoryboard2', path='<DVTFilePath:0x7fc3ee3cc190:'/Users/piotr/Library/Developer/Xcode/Archives/2020-03-13/HelloWorldStoryboard 13.03.20, 15.02.xcarchive/Products/Applications/HelloWorldStoryboard.app'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fc3ee9245e0; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fc3ee27acc0; name='Apple Development: Piotr Wszolek (W68863W636)', hash='76E2D6DE31396EC77905ED285462C5CB9414AAE0', serialNumber='3D6950B2F1E23562', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2020-03-13 13:36:59 +0000''>', entitlements='{
+    "application-identifier" = "TCKV8EY4B5.com.helloworldstoryboard.HelloWorldStoryboard2";
+    "com.apple.developer.team-identifier" = TCKV8EY4B5;
+    "get-task-allow" = 1;
+    "keychain-access-groups" =     (
+        "TCKV8EY4B5.com.helloworldstoryboard.HelloWorldStoryboard2"
+    );
+}', teamID='TCKV8EY4B5', identifier='com.helloworldstoryboard.HelloWorldStoryboard2', executablePath='<DVTFilePath:0x7fc3ee81f460:'/Users/piotr/Library/Developer/Xcode/Archives/2020-03-13/HelloWorldStoryboard 13.03.20, 15.02.xcarchive/Products/Applications/HelloWorldStoryboard.app/HelloWorldStoryboard'>', hardenedRuntime='0'>'> to: /var/folders/zp/kmrp56253wg68hmkzvz8y2c00000gn/T/XcodeDistPipeline.~~~qu9zKQ/entitlements~~~vcwge5
+2020-03-13 14:04:03 +0000  Running /usr/bin/codesign '-vvv' '--force' '--sign' 'AA9F197BACD54A7A7D71F99F59FA245516678348' '--entitlements' '/var/folders/zp/kmrp56253wg68hmkzvz8y2c00000gn/T/XcodeDistPipeline.~~~qu9zKQ/entitlements~~~vcwge5' '--preserve-metadata=identifier,flags,runtime' '/var/folders/zp/kmrp56253wg68hmkzvz8y2c00000gn/T/XcodeDistPipeline.~~~qu9zKQ/Root/Payload/HelloWorldStoryboard.app'
+2020-03-13 14:04:03 +0000  /var/folders/zp/kmrp56253wg68hmkzvz8y2c00000gn/T/XcodeDistPipeline.~~~qu9zKQ/Root/Payload/HelloWorldStoryboard.app: signed app bundle with Mach-O thin (arm64) [com.helloworldstoryboard.HelloWorldStoryboard2]
+2020-03-13 14:04:03 +0000  /usr/bin/codesign exited with 0
+2020-03-13 14:04:03 +0000  Processing step: IDEDistributionZipODRItemStep
+2020-03-13 14:04:03 +0000  Skipping step: IDEDistributionZipODRItemStep because it said so
+2020-03-13 14:04:03 +0000  Processing step: IDEDistributionCreateIPAStep
+2020-03-13 14:04:03 +0000  Running /usr/bin/ditto '-V' '-c' '-k' '--norsrc' '/var/folders/zp/kmrp56253wg68hmkzvz8y2c00000gn/T/XcodeDistPipeline.~~~qu9zKQ/Root' '/var/folders/zp/kmrp56253wg68hmkzvz8y2c00000gn/T/XcodeDistPipeline.~~~qu9zKQ/Packages/HelloWorldStoryboard.ipa'
+2020-03-13 14:04:03 +0000  >>> Copying /var/folders/zp/kmrp56253wg68hmkzvz8y2c00000gn/T/XcodeDistPipeline.~~~qu9zKQ/Root 
+2020-03-13 14:04:03 +0000  copying file ./BCSymbolMaps/F9223A01-6B5B-3A0F-AD24-AFC85F612F82.bcsymbolmap ... 
+2020-03-13 14:04:03 +0000  5623 bytes for ./BCSymbolMaps/F9223A01-6B5B-3A0F-AD24-AFC85F612F82.bcsymbolmap
+2020-03-13 14:04:03 +0000  copying file ./Payload/HelloWorldStoryboard.app/_CodeSignature/CodeResources ... 
+2020-03-13 14:04:03 +0000  3895 bytes for ./Payload/HelloWorldStoryboard.app/_CodeSignature/CodeResources
+2020-03-13 14:04:03 +0000  copying file ./Payload/HelloWorldStoryboard.app/Base.lproj/Main.storyboardc/UIViewController-BYZ-38-t0r.nib ... 
+2020-03-13 14:04:03 +0000  944 bytes for ./Payload/HelloWorldStoryboard.app/Base.lproj/Main.storyboardc/UIViewController-BYZ-38-t0r.nib
+2020-03-13 14:04:03 +0000  copying file ./Payload/HelloWorldStoryboard.app/Base.lproj/Main.storyboardc/BYZ-38-t0r-view-8bC-Xf-vdC.nib ... 
+2020-03-13 14:04:03 +0000  3336 bytes for ./Payload/HelloWorldStoryboard.app/Base.lproj/Main.storyboardc/BYZ-38-t0r-view-8bC-Xf-vdC.nib
+2020-03-13 14:04:03 +0000  copying file ./Payload/HelloWorldStoryboard.app/Base.lproj/Main.storyboardc/Info.plist ... 
+258 bytes for ./Payload/HelloWorldStoryboard.app/Base.lproj/Main.storyboardc/Info.plist
+2020-03-13 14:04:03 +0000  copying file ./Payload/HelloWorldStoryboard.app/Base.lproj/LaunchScreen.storyboardc/01J-lp-oVM-view-Ze5-6b-2t3.nib ... 
+2020-03-13 14:04:03 +0000  1197 bytes for ./Payload/HelloWorldStoryboard.app/Base.lproj/LaunchScreen.storyboardc/01J-lp-oVM-view-Ze5-6b-2t3.nib
+2020-03-13 14:04:03 +0000  copying file ./Payload/HelloWorldStoryboard.app/Base.lproj/LaunchScreen.storyboardc/UIViewController-01J-lp-oVM.nib ... 
+2020-03-13 14:04:03 +0000  896 bytes for ./Payload/HelloWorldStoryboard.app/Base.lproj/LaunchScreen.storyboardc/UIViewController-01J-lp-oVM.nib
+copying file ./Payload/HelloWorldStoryboard.app/Base.lproj/LaunchScreen.storyboardc/Info.plist ... 
+2020-03-13 14:04:03 +0000  258 bytes for ./Payload/HelloWorldStoryboard.app/Base.lproj/LaunchScreen.storyboardc/Info.plist
+copying file ./Payload/HelloWorldStoryboard.app/HelloWorldStoryboard ... 
+2020-03-13 14:04:03 +0000  125136 bytes for ./Payload/HelloWorldStoryboard.app/HelloWorldStoryboard
+2020-03-13 14:04:03 +0000  copying file ./Payload/HelloWorldStoryboard.app/embedded.mobileprovision ... 
+2020-03-13 14:04:03 +0000  7363 bytes for ./Payload/HelloWorldStoryboard.app/embedded.mobileprovision
+copying file ./Payload/HelloWorldStoryboard.app/Info.plist ... 
+2020-03-13 14:04:03 +0000  1463 bytes for ./Payload/HelloWorldStoryboard.app/Info.plist
+copying file ./Payload/HelloWorldStoryboard.app/PkgInfo ... 
+2020-03-13 14:04:03 +0000  8 bytes for ./Payload/HelloWorldStoryboard.app/PkgInfo
+2020-03-13 14:04:03 +0000  /usr/bin/ditto exited with 0
+2020-03-13 14:04:03 +0000  Processing step: IDEDistributionAppStoreInformationStep
+2020-03-13 14:04:03 +0000  Skipping step: IDEDistributionAppStoreInformationStep because it said so
+2020-03-13 14:04:03 +0000  Processing step: IDEDistributionGenerateProcessedDistributionItems
+2020-03-13 14:04:03 +0000  Processing step: IDEDistributionCreateManifestStep
+2020-03-13 14:04:03 +0000  Skipping step: IDEDistributionCreateManifestStep because it said so
